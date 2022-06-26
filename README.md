@@ -5,3 +5,6 @@ Para o desenvolvimento da API Avaliador de Crédito usei a linguagem C# e .NET6 
 # execução da api
 
 A execução da API é de simples funcionamento. Em Program.cs expecificamente na linha 13 ("Data Source=LAPTOP-TATUSV7C;Initial Catalog=AVALIADOR_CREDITO;Integrated Security=True"), altere o nome da sua base de dados (Source="..."). Quando a api for iniciada no swagger entrará em ação um método que verificará se existe uma estrura de banco já criada ou não. Se caso não existir a mesma será criada automaticamente. 
+
+# considerações finais
+
