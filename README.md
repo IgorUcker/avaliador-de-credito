@@ -1,4 +1,4 @@
-# avaliador de credito (arquitetura/design, hipóteses assumidas, frameworks utilizados e por quê.)
+# avaliador de crédito (arquitetura/design, hipóteses assumidas, frameworks utilizados e por quê.)
 
 Para o desenvolvimento da API Avaliador de Crédito usei a linguagem C# e .NET6 e para a utilização da API no Frontend utilizei o Swagger. Com o .NET6 obtive a possibilidade de criar uma MIINIMAL API e também entender um pouco mais sobre ela (optei pela MINMAL API por se tratar de uma api simples e assim obtendo um código mais limpo e legível para o entendimento). Para o banco de dados, SQL Server. IDE utilizada foi o Visual Studio 2022 com o gerenciador de banco Microsoft SQL Server Management Studio 19.
 
